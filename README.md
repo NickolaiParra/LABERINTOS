@@ -4,7 +4,6 @@ Aplicación interactiva para resolver laberintos, encontrar todas las rutas posi
 ## 📂 Contenido del repositorio
 
 - `Laberinto.py` – Código fuente principal.  
-- `Laberinto.exe` – Versión ejecutable para Windows.  
 - `musica.mp3` – Música de fondo para la animación.  
 - `Logo.png` – Icono de la aplicación.  
 
@@ -13,9 +12,10 @@ Aplicación interactiva para resolver laberintos, encontrar todas las rutas posi
 ## ¿Cómo ejecutar?
 
 ### ▶️ Desde el ejecutable (Windows)
-1. Descarga la carpeta completa.  
-2. Haz doble clic en `Laberinto.exe`.  
-3. Sigue las instrucciones en pantalla para elegir un laberinto y visualizar las rutas.  
+1. 📥 [Descarga el ejecutable Laberinto.exe desde Google Drive](https://drive.google.com/file/d/1xvl4oAssK1owulU4olr9Xjw9VhnhcwRU/view?usp=sharing)  
+2. Descarga también los archivos adicionales del repositorio (`musica.mp3` y `Logo.png`) y colócalos en la misma carpeta que el ejecutable.  
+3. Haz doble clic en `Laberinto.exe`.  
+4. Sigue las instrucciones en pantalla para elegir un laberinto y visualizar las rutas animadas. 
 
 ### 🐍 Desde el código fuente
 1. Asegúrate de tener Python 3 instalado.  
