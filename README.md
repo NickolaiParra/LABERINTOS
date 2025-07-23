@@ -25,3 +25,7 @@ Aplicación interactiva para resolver laberintos, encontrar todas las rutas posi
 3. Ejecuta el programa:  
    ```bash
    python Laberinto.py
+### 📚 Bibliografía
+- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to algorithms* (3rd ed.). The MIT Press.
+- Streib, J. T., & Soma, T. (2017). *Guide to data structures: A concise introduction using Java*. Springer International Publishing.
+
